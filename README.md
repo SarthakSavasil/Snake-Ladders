@@ -5,14 +5,14 @@ Snake n Ladders game built using java Swing.
 
 <div class="row"> 
    
-      <img src="/screenshots/screenshot1" width="250">
+      <img src="/screenshots/screenshot1.jpg" width="400">
    </div>
 </div>
 
    <div class="row">
-      <img src="/screenshots/Screenshot2.png" width="400" >
+      <img src="/screenshots/Screenshot2.jpg" width="400" >
    </div>
    <div class="row">
-      <img src="/screenshots/screenshot3.png" width="400" >
+      <img src="/screenshots/screenshot3.jpg" width="400" >
    </div>
 </div>
